@@ -42,7 +42,7 @@ def main():
             for shot in shots:
                 if obj.isColliding(shot):
                     shot.kill()
-                    obj.kill()
+                    obj.split()
         
         screen.fill("black")
         
