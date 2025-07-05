@@ -14,6 +14,14 @@ A simple remake of the classic arcade game written with [Pygame](https://www.pyg
 
 ## How to Run
 
+### UV
+1. Install [UV](https://github.com/astral-sh/uv?tab=readme-ov-file#installation)
+2. Run this command in the root of the directory:
+   ```bash
+   uv run main.py
+   ```
+
+### manually
 1. Install Python 3.13 or newer.
 2. Install dependencies (only Pygame is required):
    ```bash
