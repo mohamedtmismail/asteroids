@@ -1,5 +1,4 @@
 # Asteroids
-
 A simple remake of the classic arcade game written with [Pygame](https://www.pygame.org/). The codebase contains lightweight modules for the player ship, asteroids and projectiles. The main game loop lives in `main.py` which sets up sprite groups and handles updates and drawing each frame.
 
 <img width="1392" alt="Asteroids_Screenshot" src="https://github.com/user-attachments/assets/fa7c0402-d72a-452b-b255-17b8e7fb5d49" />
